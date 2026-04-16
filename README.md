@@ -1,4 +1,5 @@
 🌾 AFT-Net: Privacy-Preserving Federated Learning with Blockchain for Smart Agriculture
+
 📌 Overview
 
 This repository implements AFT-Net (Adaptive Federated Transformer Network) — a novel federated learning framework designed for smart agriculture systems under real-world constraints such as:
@@ -11,7 +12,9 @@ Privacy and trust requirements
 
 The framework integrates:
 
+
 🔒 Differential Privacy (DP)
+
 🔗 Blockchain-based validation
 📊 Attention-based deep learning model
 ⚖️ Reputation-Aware Federated Aggregation (RAFA)
@@ -22,6 +25,7 @@ The framework integrates:
 ✅ Robustness to Non-IID, Noise, and Missing Data
 ✅ Reputation-Aware Aggregation (RAFA)
 ✅ Communication-Efficient Sparse Updates
+
 🧠 Architecture Overview
 
 The AFT-Net pipeline consists of:
@@ -51,6 +55,7 @@ Global Model Update
 │   │   ├── privacy_score.png
 │   │   └── ...
 └── README.md
+
 ⚙️ Installation
 1. Clone Repository
 git clone https://github.com/your-username/aft-net.git
@@ -65,19 +70,24 @@ seaborn
 scikit-learn
 torch
 xgboost (optional)
+
 ▶️ How to Run
 python main.py
 
 OR run the notebook step-by-step.
 
+
 📊 Experiments Included
+
 1. Centralized Baselines
 Random Forest
 SVM
 XGBoost (if installed)
+
 2. Federated Models
 FedAvg
 AFT-Net (Proposed)
+
 📈 Evaluation Metrics
 Accuracy
 Precision
@@ -86,6 +96,7 @@ F1-Score
 Privacy Score
 Communication Cost
 Trust & Security Score
+
 🔬 Stress Testing
 
 The model is evaluated under:
