@@ -163,10 +163,7 @@ Communication cost tracking (MB)
 Apoorv Jain
 Assistant Professor | Data Analyst | Blockchain Researcher
 
-Contributions are welcome!
-Feel free to open issues or submit pull requests.
-
 📬 Contact
 
 For queries or collaborations:
-📧 apoorv.jain@niet.co.in
+📧 jainapoorv97@gmail.com
