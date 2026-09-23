@@ -162,18 +162,6 @@ Communication cost tracking (MB)
 👨‍💻 Author
 Apoorv Jain
 Assistant Professor | Data Analyst | Blockchain Researcher
-IIT Patna (M.Tech - Big Data & Blockchain)
-
-⭐ Citation
-
-If you use this work, please cite:
-
-@article{aftnet2026,
-  title={AFT-Net: Privacy-Preserving Federated Learning with Blockchain for Smart Agriculture},
-  author={Apoorv Jain},
-  year={2026}
-}
-🤝 Contributing
 
 Contributions are welcome!
 Feel free to open issues or submit pull requests.
